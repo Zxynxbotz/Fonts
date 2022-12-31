@@ -85,7 +85,7 @@ global.xckey = '7iyNa0qA'
 /*Number*/
 global.nomorbot = '6283159594038'
 global.nomorown = '6283159594038'
-global.namebot = 'AnyaBotz'
+global.namebot = ' Hinata Botz'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
